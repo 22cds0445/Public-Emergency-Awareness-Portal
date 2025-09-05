@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #333;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.alert {
+    font-size: 1.2rem;
+}
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
